@@ -1,53 +1,179 @@
 # Development Strategy
 
-> `name-of-project`
+> `HYF-duck-duck-clone`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+A clone of the [DuckDuckGo home page.](duckduckgo.com) Created by two students of HYF: Nadia and Aleksandra. Creating this website we practice working with branches on GitHub, planning the workflow using "Issues" tool and the "Project board". Each step is created on a well-named branch and merged to the master branch upon approval of the other team-member. 
 
 ## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](/wireframe.png)
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+> repository owner: Aleksandra
+
+__As a User I can see an empty site at the correct URL__
+
+__As a fellow developer I can see the prepared repository__
 
 ### Repo
 
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
+1. Generate a new repo from [w3-validation-template](https://github.com/hackyourfuturebelgium/w3-validation-template)
+2. Add a .css file & link to it in the index.html
+3. Create initial development-strategy
+4. Turn on GitHub Pages
+5. Add second collaborator
+6. Each team-member to create issues accordingly to the planned workflow and assign to themself
 
-## 1. __
+---
 
-__full user story description__
+<!-- Nadia you edit this 
+ 
+ ## 1. site logo+search bar+section 
 
-### Repo
+> assigned to __
 
-what branch(es) did you work on?
+__As a site visitor, I want to know what the web page is called__
+
+### Repository
+
+- [ ] developed on a branch called `site-title`
 
 ### HTML
 
-what did you change in the HTML and why?
+- [ ] A header element ...
+- [ ] ... with the page's title
+- [ ] ... and class "site-title"
 
 ### CSS
 
-what did you change in the CSS and why?
+- [ ] the "site-title" class
 
-## 2. ...
+---
 
-...
+## 2.  introduction
 
-...
+> assigned to __
 
-## Finishing Touches
+__As a site visitor, I want to read an introduction to this web page__
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+### Repository
+
+- [ ] developed on a branch called `introduction`
+
+### HTML
+
+- [ ] A section element ...
+- [ ] ... with an introduction to the page's main content
+- [ ] ... and class "introduction"
+
+### CSS
+
+- [ ] the "introduction" class
+
+---
+
+## 3. main text
+
+> assigned to __
+
+__As a site visitor, I want to learn about something cool__
+
+### Repository
+
+- [ ] developed on a branch called `introduction`
+
+### HTML
+
+- [ ] An article element ...
+- [ ] ... with the page's main content
+- [ ] ... and class "main-text"
+
+### CSS
+
+- [ ] the "main-text" class
+-->
+---
+
+## 4. Core Features
+
+> assigned to Aleksandra
+
+__As a site visitor, I want to know what are the core features I get on this website. I see three boxes with the white background and main features of DuckDuckGo with little pictures. The boxes are located in the middle of the page on the branded arc-shaped orange backround.__
+
+### Repository
+
+- [ ] developed on a branch called `boxes`
+
+### HTML
+
+- [ ] A section element
+- [ ] Three boxes with rounded corners, containment: picture and description
+- [ ] Class "boxes"
+
+### CSS
+
+- [ ] Style rules for the section boxes
+
+---
+
+## 5. Privacy policy
+
+> assigned to Aleksandra
+
+__As a site visitor, I see that DuckDuckGo doesn't store any personal information. There is another button as well to add the extention to Chrome.__
+
+### Repository
+
+- [ ] developed on a branch called `privacy-section`
+
+### HTML
+
+- [ ] A section element
+- [ ] Privacy-statement class 
+- [ ] A button to add DDG to Chrome
+
+
+### CSS
+
+- [ ] Style for the privacy-section
+
+---
+
+<!-- ## 6. Footer
+### HTML
+
+- [ ] A footer element ...
+- [ ] ... with the author's contact info
+- [ ] ... and class "contact-info"
+
+### CSS
+
+- [ ] the "contact-info" class
+
+--- -->
+
+## 7. Finishing Touches
+
+> assigned to Aleksandra 
+
+### Repository
+
+- [ ] Developed on the branch `last-corrections`
+
+- [ ] Write final, complete README
+- [ ] Check for styling errors with a linter & prettify code
+- [ ] Validate source code on w3 to check for any last mistakes
+
+<!--
+## 8. Finishing Touches
+> assigned to Nadia
+
+### Repository
+
+- [ ] Developed on the branch
+
+- [ ] Write final, complete README
+- [ ] Check for styling errors with a linter & prettify code
+- [ ] Validate source code on w3 to check for any last mistakes
+- [ ] Development-strategy -->
