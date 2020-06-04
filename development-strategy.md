@@ -162,6 +162,7 @@ __As a site visitor, I see that DuckDuckGo doesn't store any personal informatio
 - [ ] Developed on the branch `last-corrections`
 
 - [ ] Write final, complete README
+- [ ] Make the sections "core features" and "privacy policy" responsive
 - [ ] Check for styling errors with a linter & prettify code
 - [ ] Validate source code on w3 to check for any last mistakes
 
