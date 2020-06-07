@@ -60,7 +60,6 @@ header .fa {
   
 
  /* LOGO AND SEARCH */
- /*
     #search {
       display: flex;
   }
@@ -107,12 +106,11 @@ header .fa {
  /* .search-bar button:focus {
     border: none;          
 }
+*/
 
   .search-bar button:hover {
     background-color:#66ad57 ;
 }
-
-*/
 
 /* FEATURES */
 /*

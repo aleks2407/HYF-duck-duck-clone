@@ -59,7 +59,7 @@ __As a site visitor, I want to navigate easily across the website__
 
 ---
 
-<!-- ## 2.  site search
+## 2.  site search
 
 > assigned to Nadia
 
@@ -86,7 +86,7 @@ __As a site visitor, I want to perform search using the website__
 
 ---
 
-## 3. features
+<!-- ## 3. features
 
 > assigned to Nadia
 
@@ -112,8 +112,7 @@ __As a site visitor, I want to learn more about the features of the company prod
 - [ ] link style
 - [ ] button style
 
--->
----
+--- -->
 
 ## 4. Core Features
 
