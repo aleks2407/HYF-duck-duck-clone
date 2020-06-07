@@ -28,6 +28,10 @@ header{
     min-height:70px;
   }
 
+.container-size {
+      width: 95%;
+  }
+
 header li {
     display: inline;
     float: left;
