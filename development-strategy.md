@@ -26,72 +26,92 @@ __As a fellow developer I can see the prepared repository__
 6. Each team-member to create issues accordingly to the planned workflow and assign to themself
 
 ---
-
-<!-- Nadia you edit this 
  
- ## 1. site logo+search bar+section 
+ ## 1. site navigation 
 
-> assigned to __
+> assigned to Nadia
 
-__As a site visitor, I want to know what the web page is called__
+__As a site visitor, I want to navigate easily across the website__
 
 ### Repository
 
-- [ ] developed on a branch called `site-title`
+- [ ] developed on a branch called `header`
 
 ### HTML
 
-- [ ] A header element ...
-- [ ] ... with the page's title
-- [ ] ... and class "site-title"
+- [ ] page title
+- [ ] link to the font-awesome file
+- [ ] header element with a class
+- [ ] nav element with an id as a button menu
+- [ ] button menu icons
+- [ ] footer element as an image
 
 ### CSS
 
-- [ ] the "site-title" class
+- [ ] header style
+- [ ] header list items
+- [ ] header icons and pseudo class
+- [ ] header nav bar
+- [ ] footer layout style
+- [ ] footer image style
+- [ ] class for hiding labels of the element
+
 
 ---
 
-## 2.  introduction
+<!-- ## 2.  site search
 
-> assigned to __
+> assigned to Nadia
 
-__As a site visitor, I want to read an introduction to this web page__
+__As a site visitor, I want to perform search using the website__
 
 ### Repository
 
-- [ ] developed on a branch called `introduction`
+- [ ] developed on a branch called `search`
 
 ### HTML
 
-- [ ] A section element ...
-- [ ] ... with an introduction to the page's main content
-- [ ] ... and class "introduction"
+- [ ] A section element with an id
+- [ ] Logo image as a link element
+- [ ] Form element with a search bar
 
 ### CSS
 
-- [ ] the "introduction" class
+- [ ] search section layout
+- [ ] image layout
+- [ ] search-bar class
+- [ ] search input layout
+- [ ] search button style
+- [ ] search button icon style
 
 ---
 
-## 3. main text
+## 3. features
 
-> assigned to __
+> assigned to Nadia
 
-__As a site visitor, I want to learn about something cool__
+__As a site visitor, I want to learn more about the features of the company product__
 
 ### Repository
 
-- [ ] developed on a branch called `introduction`
+- [ ] developed on a branch called `features`
 
 ### HTML
 
-- [ ] An article element ...
-- [ ] ... with the page's main content
-- [ ] ... and class "main-text"
+- [ ] A section element with an id
+- [ ] Heading and paragraphs element
+- [ ] List element
+- [ ] Form element
+- [ ] Link element
 
 ### CSS
 
-- [ ] the "main-text" class
+- [ ] features section layout
+- [ ] list items layout
+- [ ] search section layout
+- [ ] link style
+- [ ] button style
+
 -->
 ---
 
@@ -140,18 +160,18 @@ __As a site visitor, I see that DuckDuckGo doesn't store any personal informatio
 
 ---
 
-<!-- ## 6. Footer
-### HTML
+<!-- ## 6. Finishing Touches
 
-- [ ] A footer element ...
-- [ ] ... with the author's contact info
-- [ ] ... and class "contact-info"
+> assigned to Nadia
 
-### CSS
+### Repository
 
-- [ ] the "contact-info" class
+- [ ] Developed on the branch
 
---- -->
+- [ ] Write final, complete README
+- [ ] Check for styling errors with a linter & prettify code
+- [ ] Validate source code on w3 to check for any last mistakes
+- [ ] Development-strategy -->
 
 ## 7. Finishing Touches
 
@@ -166,15 +186,3 @@ __As a site visitor, I see that DuckDuckGo doesn't store any personal informatio
 - [ ] Check for styling errors with a linter & prettify code
 - [ ] Validate source code on w3 to check for any last mistakes
 
-<!--
-## 8. Finishing Touches
-> assigned to Nadia
-
-### Repository
-
-- [ ] Developed on the branch
-
-- [ ] Write final, complete README
-- [ ] Check for styling errors with a linter & prettify code
-- [ ] Validate source code on w3 to check for any last mistakes
-- [ ] Development-strategy -->
