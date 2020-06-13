@@ -160,7 +160,7 @@ __As a site visitor, I see that DuckDuckGo doesn't store any personal informatio
 
 ---
 
-<!-- ## 6. Search refinements
+## 6. Search refinements
 
 > assigned to Nadia
 
@@ -175,7 +175,7 @@ __As a site visitor, I see that DuckDuckGo doesn't store any personal informatio
 - [ ] update search button layout and pseudo-class color
 - [ ] resize the logo image
 
- -->
+
 
 ## 7. Finishing Touches
 
