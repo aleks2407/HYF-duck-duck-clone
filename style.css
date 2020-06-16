@@ -207,7 +207,7 @@ header .fa {
 .flex-container {
     display: flex;
     justify-content: center;
-    margin-top: 730px;
+    margin-top: 130px;
 }
 
 .flex-container > div {
@@ -343,7 +343,7 @@ footer img {
     }
     
     div.flex-container {
-        margin-top: 1000px;
+        margin-top: 160px;
     }
 }
 
