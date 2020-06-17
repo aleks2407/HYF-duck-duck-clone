@@ -86,11 +86,11 @@ __As a site visitor, I want to perform search using the website__
 
 ---
 
-<!-- ## 3. features
+## 3. features
 
 > assigned to Nadia
 
-__As a site visitor, I want to learn more about the features of the company product__
+__As a site visitor, I want to learn more about the product features of the company__
 
 ### Repository
 
@@ -107,12 +107,13 @@ __As a site visitor, I want to learn more about the features of the company prod
 ### CSS
 
 - [ ] features section layout
+- [ ] heading and paragraph layout and styling
 - [ ] list items layout
-- [ ] search section layout
-- [ ] link style
+- [ ] icon style
+- [ ] link layout and style
 - [ ] button style
 
---- -->
+---
 
 ## 4. Core Features
 

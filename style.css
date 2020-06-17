@@ -82,7 +82,7 @@ header .fa {
       border-radius: 4px;
   }
 
-  .search-bar input {
+  .search-bar input {      
       border: none;
       margin: 0;
       width: 400px;
@@ -113,34 +113,101 @@ header .fa {
 }
 
 /* FEATURES */
-/*
+
 #features {
-    display: flex;  
-    }
+    display: flex;        
+}
+
+#features .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+
+#features h2 {
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    
+    font-weight: 800;
+    color: #353748;
+    margin-bottom: 0;
+    margin-top: 0;    
+}
+
+.text {
+    font-size: 17px;
+    line-height: 24px;
+    font-weight: bold;
+    color: #353748;    
+    margin-bottom: 0;
+}
+
+.simple-text {
+    max-width: none;    
+    margin: 0 auto;
+    color: #353748;
+    font-size: 17px;
+    line-height: 28px;
+    font-weight: normal;   
+}
 
 #features li {
-    display: inline;
-    }
+    display: inline-flex;
+    color: #353748;
+    justify-content: space-between;
+    min-height: auto;
+    text-align: center;
+    margin: 0px 14px 25px;
+    font-size: 15px;
+    font-weight: bold;  
+}
+
+#features i {    
+    border: 3px solid rgb(103, 143, 255);
+    background-color: rgb(103, 143, 255);
+    border-radius: 8px;
+    font-size: 0.65em;
+    color: white;
+    margin-right: 5px; 
+}
  
 #features a {
     text-decoration: none;
-    font-size: 0.8em;
+    font-size: 0.8em;    
 }
 
 #features button {
-    margin-bottom: 10px;
-    margin-top: 5px;
+    height: 43px;
+    width: 105%;
+    line-height: 1.3;
+    background: #678fff;
+    color: white;
+    font-size: 14px;    
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    outline: none;
 }
 
-*/
+#rating {
+    font-size: 12px;
+    margin-top: 11px;
+    color: #353748;
+    margin-bottom: 20px;
+}
 
+.half-star {
+    color: lightgray;       
+}
 
 /* Boxes */
 
 .flex-container {
     display: flex;
     justify-content: center;
-    margin-top: 730px;
+    margin-top: 130px;
 }
 
 .flex-container > div {
@@ -276,7 +343,7 @@ footer img {
     }
     
     div.flex-container {
-        margin-top: 1000px;
+        margin-top: 160px;
     }
 }
 
