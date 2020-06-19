@@ -160,18 +160,22 @@ __As a site visitor, I see that DuckDuckGo doesn't store any personal informatio
 
 ---
 
-<!-- ## 6. Finishing Touches
+## 6. Search refinements
 
 > assigned to Nadia
 
 ### Repository
 
-- [ ] Developed on the branch
+- [ ] Developed on the branch `search-refines`
 
-- [ ] Write final, complete README
-- [ ] Check for styling errors with a linter & prettify code
-- [ ] Validate source code on w3 to check for any last mistakes
-- [ ] Development-strategy -->
+### CSS
+
+- [ ] remove outline from search bar input
+- [ ] style the search bar wider and thinner
+- [ ] update search button layout and pseudo-class color
+- [ ] resize the logo image
+
+---
 
 ## 7. Finishing Touches
 
@@ -186,3 +190,27 @@ __As a site visitor, I see that DuckDuckGo doesn't store any personal informatio
 - [ ] Check for styling errors with a linter & prettify code
 - [ ] Validate source code on w3 to check for any last mistakes
 
+<!-- ## 8. Final overall refinements
+
+> assigned to Nadia
+
+### Repository
+
+- [ ] Developed on the branch `final-refines`
+
+### README
+- [ ] update README with a link
+
+### Development strategy 
+- [ ] revise Development-strategy 
+
+### HTML
+- [ ] Validate source code on w3 to check for any last mistakes
+- [ ] Check for styling errors with a linter & prettify code
+
+### CSS
+Responsive???
+- [ ] margin correction between Feature and Boxes section
+- [ ] Check for styling errors with a linter & prettify code
+- [ ] Validate source code on w3 to check for any last mistakes
+ -->
